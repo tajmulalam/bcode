@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/tajmul/Desktop/All_Projects/github_proj/MaterialBarcodeScanner/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/MaterialBarcodeScanner/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_7827c2dfaf5649f971bf8ac4842710437c651a05.jar" />
+    </item>
+    <item
+        jar="/home/tajmul/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/MaterialBarcodeScanner/app/build/intermediates/pre-dexed/debug/eventbus-3.0.0_ef56847cfd7a9136080a9010d7e76295c6d4f27d.jar" />
+    </item>
+    <item
+        jar="/home/tajmul/Desktop/All_Projects/github_proj/MaterialBarcodeScanner/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/MaterialBarcodeScanner/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_0eb5244b0c5ef9657c1c922f934f7a81c3703061.jar" />
+    </item>
+    <item
+        jar="/home/tajmul/Desktop/All_Projects/github_proj/MaterialBarcodeScanner/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/MaterialBarcodeScanner/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_037a66fff6ab16fb85e2bca2395e479dcf7bb7af.jar" />
+    </item>
+    <item
+        jar="/home/tajmul/Desktop/All_Projects/github_proj/MaterialBarcodeScanner/app/build/intermediates/exploded-aar/MaterialBarcodeScanner/materialbarcodescanner/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7647e594f6d927c8564f4ab39097bf42e78b8a31">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/MaterialBarcodeScanner/app/build/intermediates/pre-dexed/debug/MaterialBarcodeScanner-materialbarcodescanner-unspecified_7b4466d9c9159f5f6587f595d367f347e426dcb4.jar" />
+    </item>
+    <item
+        jar="/home/tajmul/Desktop/All_Projects/github_proj/MaterialBarcodeScanner/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/MaterialBarcodeScanner/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_8cc107acd69956052aac22bb13b67c53fe73f935.jar" />
+    </item>
+    <item
+        jar="/home/tajmul/Desktop/All_Projects/github_proj/MaterialBarcodeScanner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/MaterialBarcodeScanner/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_7e94ef73e7fd50d748c9c96e4569fb84020953da.jar" />
+    </item>
+    <item
+        jar="/home/tajmul/Desktop/All_Projects/github_proj/MaterialBarcodeScanner/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/MaterialBarcodeScanner/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_deffd0dd8b055b2b7e65f978578d2966360e6dcc.jar" />
+    </item>
+    <item
+        jar="/home/tajmul/Desktop/All_Projects/github_proj/MaterialBarcodeScanner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/MaterialBarcodeScanner/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_80a714e429659c4c35df4e714154921c9cf122c5.jar" />
+    </item>
+    <item
+        jar="/home/tajmul/Desktop/All_Projects/github_proj/MaterialBarcodeScanner/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/MaterialBarcodeScanner/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_41826910352f292c90b9074c07467fe1ff094672.jar" />
+    </item>
+    <item
+        jar="/home/tajmul/Desktop/All_Projects/github_proj/MaterialBarcodeScanner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/MaterialBarcodeScanner/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-8.4.0_6c388834477af8191ad09a08d8a5577579d07add.jar" />
+    </item>
+    <item
+        jar="/home/tajmul/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/MaterialBarcodeScanner/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_d2aa167da3c8eddecf8072c0d3d5b8f7a2362260.jar" />
+    </item>
+    <item
+        jar="/home/tajmul/Desktop/All_Projects/github_proj/MaterialBarcodeScanner/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/MaterialBarcodeScanner/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_e68905d9e3fed5721a64275d2614b7984a607104.jar" />
+    </item>
+
+</items>
