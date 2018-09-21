@@ -2,14 +2,15 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 23
-    buildToolsVersion "23.0.2"
+    buildToolsVersion '27.0.3'
 
     defaultConfig {
         applicationId "com.theisofall.barcode"
-        minSdkVersion 9
+        minSdkVersion 14
         targetSdkVersion 23
         versionCode 1
         versionName "0.0.6-ALPHA"
+        multiDexEnabled true
     }
     buildTypes {
         release {
@@ -26,4 +27,9 @@ dependencies {
     compile 'com.android.support:appcompat-v7:23.2.1'
     compile 'com.android.support:design:23.2.1'
     compile project(':materialbarcodescanner')
+    implementation 'com.android.volley:volley:1.0.0'
+    implementation 'com.squareup.picasso:picasso:2.71828'
+    compile 'com.google.android.gms:play-services:10.0.1'
+    implementation 'com.android.support:multidex:1.0.3'
+
 }
